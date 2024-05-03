@@ -33,3 +33,4 @@ document.addEventListener('DOMContentLoaded', function() {
         jogador.style.top = `${posicaoY}px`;
     });
 });
+
